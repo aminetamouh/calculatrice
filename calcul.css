@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#cal{
+    width: 20%;
+    text-align: center;
+    margin-left: 40%;
+    font-size: 40px;
+    color: tomato;
+    margin-top: 50px;
+    text-shadow: 5px 5px 5px rgb(56, 55, 55);
+}
+#ecran{
+    width: 50%;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    height: 70px;
+    background-color: cadetblue;
+    margin-left: 25%;
+    margin-top: 50px;
+    border-radius: 10px 10px 0px 0px ;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table{
+    width: 50%;
+    height: 300px;
+    margin-left: 25%;
+}
+td{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgba(241, 239, 239, 0.932);
+    cursor: pointer;
+    font-weight: bold;
+}
